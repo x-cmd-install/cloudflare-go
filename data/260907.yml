@@ -5,13 +5,13 @@ about:
   head: a451147
   archived: false
   latestVersion: "v7.10.0"
-  collectedAt: 2026-09-07T04:49:35Z
+  collectedAt: 2026-09-07T19:40:51Z
 timeline:
   created: 2015-12-03
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 2083
+  star: 2084
   watcher: 48
   fork: 779
   release: 215
@@ -81,7 +81,7 @@ total:
   commit: 6015
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/cloudflare-go
-collectedAt: 2026-09-07T04:49:55Z
+collectedAt: 2026-09-07T19:41:13Z
 loc:
   Go:
     code: 786000
@@ -200,7 +200,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:49:56+00:00
+  collectedAt: 2026-09-07T19:41:14+00:00
   platform:
     darwin/arm64:
       name:  null
