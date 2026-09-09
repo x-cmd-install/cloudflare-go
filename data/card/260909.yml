@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.10.0"
   latestRelease: "v7.10.0"
   latestPrerelease: "v2.0.0-beta.17"
-  collectedAt: 2026-09-09T05:06:10Z
+  collectedAt: 2026-09-09T19:05:23Z
 timeline:
   created: 2015-12-03
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 2024-04-02
 popularity:
-  star: 2084
+  star: 2083
   watcher: 48
   fork: 780
   release: 215
@@ -35,7 +35,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 1
-    commit: 26
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 4
@@ -43,7 +43,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 3
-    commit: 53
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 6
@@ -51,7 +51,7 @@ recent:
     openPR: 4
     closedIssue: 1
     openIssue: 3
-    commit: 133
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 15
@@ -59,7 +59,7 @@ recent:
     openPR: 5
     closedIssue: 7
     openIssue: 6
-    commit: 394
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 23
@@ -67,7 +67,7 @@ recent:
     openPR: 6
     closedIssue: 19
     openIssue: 8
-    commit: 1220
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 50
@@ -85,7 +85,7 @@ total:
   commit: 6015
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/cloudflare-go
-collectedAt: 2026-09-09T05:06:37Z
+collectedAt: 2026-09-09T19:06:01Z
 loc:
   Go:
     code: 786000
