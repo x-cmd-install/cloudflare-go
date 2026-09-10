@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.10.0"
   latestRelease: "v7.10.0"
   latestPrerelease: "v2.0.0-beta.17"
-  collectedAt: 2026-09-10T04:48:33Z
+  collectedAt: 2026-09-10T16:45:38Z
 timeline:
   created: 2015-12-03
   lastCommit: 2026-09-04
@@ -85,7 +85,7 @@ total:
   commit: 6015
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/cloudflare-go
-collectedAt: 2026-09-10T04:48:56Z
+collectedAt: 2026-09-10T16:46:06Z
 loc:
   Go:
     code: 786000
