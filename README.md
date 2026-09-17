@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,084 · **Forks**: 781 · **Open issues**: 402 · **Contributors**: 75
+- **Stars**: 2,084 · **Forks**: 780 · **Open issues**: 402 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 215 · **Merged PRs**: 3691 · **Open PRs**: 6 · **Closed issues**: 393 · **Open issues**: 9 · **Commits**: 6015
+- **Releases**: 215 · **Merged PRs**: 3691 · **Open PRs**: 5 · **Closed issues**: 393 · **Open issues**: 9 · **Commits**: 6015
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 3 | 4 | 3 | 0 | 1 | 12 |
-| last60d | 2026-07-18 | 4 | 5 | 3 | 0 | 2 | 38 |
-| 90d | 2026-06-18 | 5 | 6 | 4 | 0 | 3 | 86 |
-| last180d | 2026-03-20 | 15 | 65 | 5 | 7 | 6 | 394 |
-| 360d | 2025-09-21 | 23 | 90 | 6 | 16 | 8 | 1052 |
-| last720d | 2024-09-26 | 46 | 961 | 6 | 48 | 9 | 3655 |
+| 30d | 2026-08-18 | 3 | 4 | 2 | 0 | 1 | 12 |
+| last60d | 2026-07-19 | 4 | 5 | 2 | 0 | 2 | 38 |
+| 90d | 2026-06-19 | 5 | 6 | 3 | 0 | 3 | 86 |
+| last180d | 2026-03-21 | 15 | 65 | 4 | 6 | 6 | 394 |
+| 360d | 2025-09-22 | 23 | 90 | 5 | 16 | 8 | 1052 |
+| last720d | 2024-09-27 | 46 | 960 | 5 | 48 | 9 | 3645 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cloudflare-go lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:10:19Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:20:44Z._
