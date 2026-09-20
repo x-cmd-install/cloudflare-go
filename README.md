@@ -4,7 +4,7 @@
 
 The official Go library for the Cloudflare API
 
-![cloudflare-go](https://repo.x-cmd.io/cloudflare-go.svg)
+[![x-cmd/install — cloudflare-go Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cloudflare-go.svg)](https://x-cmd.com/install/cloudflare-go)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 3 | 2 | 0 | 1 | 12 |
-| last60d | 2026-07-20 | 4 | 5 | 2 | 0 | 2 | 38 |
-| 90d | 2026-06-20 | 5 | 6 | 3 | 0 | 3 | 86 |
-| last180d | 2026-03-22 | 15 | 65 | 4 | 6 | 6 | 394 |
-| 360d | 2025-09-23 | 23 | 90 | 5 | 16 | 8 | 1052 |
-| last720d | 2024-09-28 | 45 | 958 | 5 | 48 | 9 | 3639 |
+| 30d | 2026-08-21 | 2 | 3 | 1 | 0 | 1 | 12 |
+| last60d | 2026-07-22 | 4 | 5 | 2 | 0 | 2 | 38 |
+| 90d | 2026-06-22 | 5 | 6 | 3 | 0 | 3 | 86 |
+| last180d | 2026-03-24 | 15 | 65 | 4 | 6 | 6 | 394 |
+| 360d | 2025-09-25 | 23 | 90 | 5 | 15 | 8 | 1052 |
+| last720d | 2024-09-30 | 45 | 953 | 5 | 48 | 9 | 3636 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cloudflare-go lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:08:59Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:14:42Z._
