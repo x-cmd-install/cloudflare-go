@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 215 · **Merged PRs**: 3691 · **Open PRs**: 5 · **Closed issues**: 393 · **Open issues**: 9 · **Commits**: 6015
+- **Releases**: 215 · **Merged PRs**: 3691 · **Open PRs**: 6 · **Closed issues**: 393 · **Open issues**: 9 · **Commits**: 6015
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 3 | 1 | 0 | 1 | 6 |
-| last60d | 2026-07-23 | 4 | 5 | 2 | 0 | 2 | 29 |
-| 90d | 2026-06-23 | 5 | 6 | 3 | 0 | 3 | 71 |
-| last180d | 2026-03-25 | 15 | 65 | 4 | 6 | 6 | 394 |
-| 360d | 2025-09-26 | 23 | 90 | 5 | 15 | 8 | 994 |
-| last720d | 2024-10-01 | 45 | 940 | 5 | 48 | 9 | 3628 |
+| 30d | 2026-08-23 | 2 | 3 | 2 | 0 | 1 | 6 |
+| last60d | 2026-07-24 | 4 | 4 | 3 | 0 | 2 | 29 |
+| 90d | 2026-06-24 | 5 | 6 | 3 | 0 | 3 | 71 |
+| last180d | 2026-03-26 | 15 | 65 | 5 | 4 | 6 | 394 |
+| 360d | 2025-09-27 | 23 | 90 | 6 | 15 | 8 | 994 |
+| last720d | 2024-10-02 | 45 | 915 | 6 | 48 | 9 | 3619 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cloudflare-go lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:16:51Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:09:40Z._
