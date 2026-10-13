@@ -14,15 +14,15 @@ x install cloudflare-go
 
 ## Code insight
 
-Total: **825,227** lines of code across **2344** files in the top 5 languages.
+Total: **826,624** lines of code across **2355** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 824,052 | 209,346 | 152,723 | 2197 |
-| Bash | 1,070 | 16 | 42 | 6 |
+| Go | 825,447 | 210,192 | 152,923 | 2205 |
+| Bash | 1,072 | 16 | 42 | 6 |
 | Json | 67 | 0 | 0 | 1 |
 | Sh | 38 | 1 | 11 | 1 |
-| Markdown | 0 | 14,416 | 6,381 | 139 |
+| Markdown | 0 | 14,540 | 6,424 | 142 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v7.12.0` (2026-10-01)
-- **Last commit**: 2026-10-01
+- **Latest**: `v7.13.0` (2026-10-12)
+- **Last commit**: 2026-10-12
 
 ## Popularity
 
-- **Stars**: 2,101 · **Forks**: 779 · **Open issues**: 409 · **Contributors**: 80
+- **Stars**: 2,101 · **Forks**: 777 · **Open issues**: 409 · **Contributors**: 80
 
 ## Totals (cumulative)
 
-- **Releases**: 218 · **Merged PRs**: 3695 · **Open PRs**: 2 · **Closed issues**: 401 · **Open issues**: 8 · **Commits**: 6061
+- **Releases**: 219 · **Merged PRs**: 3696 · **Open PRs**: 1 · **Closed issues**: 401 · **Open issues**: 8 · **Commits**: 6068
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 4 | 1 | 6 | 1 | 29 |
-| last60d | 2026-08-13 | 6 | 8 | 1 | 7 | 1 | 51 |
-| 90d | 2026-07-14 | 7 | 9 | 1 | 8 | 2 | 75 |
-| last180d | 2026-04-15 | 17 | 64 | 2 | 12 | 5 | 428 |
-| 360d | 2025-10-17 | 25 | 91 | 2 | 22 | 7 | 744 |
-| last720d | 2024-10-22 | 47 | 744 | 2 | 56 | 8 | 3394 |
+| 30d | 2026-09-13 | 4 | 5 | 0 | 6 | 1 | 34 |
+| last60d | 2026-08-14 | 7 | 9 | 0 | 7 | 1 | 56 |
+| 90d | 2026-07-15 | 8 | 10 | 0 | 7 | 2 | 80 |
+| last180d | 2026-04-16 | 18 | 65 | 1 | 12 | 5 | 433 |
+| 360d | 2025-10-18 | 26 | 92 | 1 | 22 | 7 | 749 |
+| last720d | 2024-10-23 | 48 | 731 | 1 | 56 | 8 | 3379 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cloudflare-go lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:19:30Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:05:14Z._
