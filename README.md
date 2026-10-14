@@ -30,8 +30,8 @@ Overall score: **6 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,101 · **Forks**: 777 · **Open issues**: 409 · **Contributors**: 80
+- **Stars**: 2,102 · **Forks**: 777 · **Open issues**: 409 · **Contributors**: 80
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 4 | 5 | 0 | 6 | 1 | 34 |
-| last60d | 2026-08-14 | 7 | 9 | 0 | 7 | 1 | 56 |
-| 90d | 2026-07-15 | 8 | 10 | 0 | 7 | 2 | 80 |
-| last180d | 2026-04-16 | 18 | 65 | 1 | 12 | 5 | 433 |
-| 360d | 2025-10-18 | 26 | 92 | 1 | 22 | 7 | 749 |
-| last720d | 2024-10-23 | 48 | 731 | 1 | 56 | 8 | 3379 |
+| 30d | 2026-09-14 | 4 | 5 | 0 | 6 | 1 | 34 |
+| last60d | 2026-08-15 | 7 | 9 | 0 | 7 | 1 | 56 |
+| 90d | 2026-07-16 | 8 | 10 | 0 | 7 | 2 | 80 |
+| last180d | 2026-04-17 | 18 | 63 | 1 | 12 | 5 | 433 |
+| 360d | 2025-10-19 | 26 | 92 | 1 | 22 | 7 | 749 |
+| last720d | 2024-10-24 | 47 | 714 | 1 | 56 | 8 | 3359 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cloudflare-go lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:05:14Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:08:51Z._
