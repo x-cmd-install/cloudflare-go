@@ -22,7 +22,7 @@ Total: **826,624** lines of code across **2355** files in the top 5 languages.
 | Bash | 1,072 | 16 | 42 | 6 |
 | Json | 67 | 0 | 0 | 1 |
 | Sh | 38 | 1 | 11 | 1 |
-| Markdown | 0 | 14,540 | 6,424 | 142 |
+| Markdown | 0 | 14,549 | 6,429 | 142 |
 
 ## OpenSSF Scorecard
 
@@ -30,8 +30,8 @@ Overall score: **6 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v7.13.0` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Latest**: `v7.13.1` (2026-10-20)
+- **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 2,102 · **Forks**: 776 · **Open issues**: 419 · **Contributors**: 81
+- **Stars**: 2,104 · **Forks**: 776 · **Open issues**: 421 · **Contributors**: 83
 
 ## Totals (cumulative)
 
-- **Releases**: 219 · **Merged PRs**: 3696 · **Open PRs**: 1 · **Closed issues**: 401 · **Open issues**: 18 · **Commits**: 6068
+- **Releases**: 220 · **Merged PRs**: 3697 · **Open PRs**: 1 · **Closed issues**: 401 · **Open issues**: 20 · **Commits**: 6071
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 4 | 5 | 0 | 6 | 11 | 22 |
-| last60d | 2026-08-21 | 6 | 8 | 0 | 7 | 11 | 51 |
-| 90d | 2026-07-22 | 8 | 10 | 0 | 7 | 12 | 69 |
-| last180d | 2026-04-23 | 18 | 57 | 1 | 12 | 15 | 420 |
-| 360d | 2025-10-25 | 25 | 92 | 1 | 21 | 17 | 746 |
-| last720d | 2024-10-30 | 47 | 673 | 1 | 56 | 18 | 3261 |
+| 30d | 2026-09-21 | 5 | 6 | 0 | 6 | 13 | 24 |
+| last60d | 2026-08-22 | 7 | 9 | 0 | 7 | 13 | 53 |
+| 90d | 2026-07-23 | 9 | 11 | 0 | 7 | 14 | 71 |
+| last180d | 2026-04-24 | 18 | 57 | 1 | 12 | 17 | 422 |
+| 360d | 2025-10-26 | 26 | 93 | 1 | 21 | 19 | 748 |
+| last720d | 2024-10-31 | 48 | 673 | 1 | 56 | 20 | 3241 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cloudflare-go lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:54:04Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:50:36Z._

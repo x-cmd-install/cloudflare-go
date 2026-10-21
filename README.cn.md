@@ -22,7 +22,7 @@ x install cloudflare-go
 | Bash | 1,072 | 16 | 42 | 6 |
 | Json | 67 | 0 | 0 | 1 |
 | Sh | 38 | 1 | 11 | 1 |
-| Markdown | 0 | 14,540 | 6,424 | 142 |
+| Markdown | 0 | 14,549 | 6,429 | 142 |
 
 ## OpenSSF Scorecard 评分
 
@@ -30,8 +30,8 @@ x install cloudflare-go
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -42,27 +42,27 @@ x install cloudflare-go
 
 ## 发布
 
-- **最新版本**: `v7.13.0` (2026-10-12)
-- **最近提交**: 2026-10-12
+- **最新版本**: `v7.13.1` (2026-10-20)
+- **最近提交**: 2026-10-20
 
 ## 流行度
 
-- **Star**: 2,102 · **Fork**: 776 · **开放 issue**: 419 · **贡献者**: 81
+- **Star**: 2,104 · **Fork**: 776 · **开放 issue**: 421 · **贡献者**: 83
 
 ## 累计统计
 
-- **发布数**: 219 · **已合并 PR**: 3696 · **开放 PR**: 1 · **已关闭 issue**: 401 · **开放 issue**: 18 · **提交数**: 6068
+- **发布数**: 220 · **已合并 PR**: 3697 · **开放 PR**: 1 · **已关闭 issue**: 401 · **开放 issue**: 20 · **提交数**: 6071
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 4 | 5 | 0 | 6 | 11 | 22 |
-| last60d | 2026-08-21 | 6 | 8 | 0 | 7 | 11 | 51 |
-| 90d | 2026-07-22 | 8 | 10 | 0 | 7 | 12 | 69 |
-| last180d | 2026-04-23 | 18 | 57 | 1 | 12 | 15 | 420 |
-| 360d | 2025-10-25 | 25 | 92 | 1 | 21 | 17 | 746 |
-| last720d | 2024-10-30 | 47 | 673 | 1 | 56 | 18 | 3261 |
+| 30d | 2026-09-21 | 5 | 6 | 0 | 6 | 13 | 24 |
+| last60d | 2026-08-22 | 7 | 9 | 0 | 7 | 13 | 53 |
+| 90d | 2026-07-23 | 9 | 11 | 0 | 7 | 14 | 71 |
+| last180d | 2026-04-24 | 18 | 57 | 1 | 12 | 17 | 422 |
+| 360d | 2025-10-26 | 26 | 93 | 1 | 21 | 19 | 748 |
+| last720d | 2024-10-31 | 48 | 673 | 1 | 56 | 20 | 3241 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ cloudflare-go 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T04:54:04Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T04:50:37Z._
