@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 3 | 3 | 1 | 11 | 3 | 7 |
-| last60d | 2026-08-28 | 7 | 9 | 1 | 18 | 3 | 44 |
-| 90d | 2026-07-29 | 8 | 10 | 1 | 18 | 4 | 68 |
-| last180d | 2026-04-30 | 18 | 55 | 2 | 23 | 7 | 357 |
-| 360d | 2025-11-01 | 26 | 92 | 2 | 31 | 9 | 618 |
-| last720d | 2024-11-06 | 48 | 650 | 2 | 66 | 10 | 3197 |
+| 30d | 2026-09-28 | 3 | 3 | 1 | 11 | 3 | 7 |
+| last60d | 2026-08-29 | 7 | 9 | 1 | 18 | 3 | 44 |
+| 90d | 2026-07-30 | 8 | 10 | 1 | 18 | 4 | 68 |
+| last180d | 2026-05-01 | 17 | 52 | 2 | 23 | 7 | 357 |
+| 360d | 2025-11-02 | 26 | 92 | 2 | 31 | 9 | 618 |
+| last720d | 2024-11-07 | 47 | 643 | 2 | 66 | 10 | 3190 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cloudflare-go lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:14:06Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:47:39Z._
