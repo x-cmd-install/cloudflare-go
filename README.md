@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,109 · **Forks**: 777 · **Open issues**: 422 · **Contributors**: 84
+- **Stars**: 2,111 · **Forks**: 777 · **Open issues**: 422 · **Contributors**: 84
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 2 | 1 | 11 | 3 | 4 |
-| last60d | 2026-09-03 | 6 | 7 | 1 | 17 | 3 | 42 |
-| 90d | 2026-08-04 | 8 | 10 | 1 | 18 | 4 | 68 |
-| last180d | 2026-05-06 | 17 | 47 | 2 | 23 | 7 | 315 |
-| 360d | 2025-11-07 | 26 | 92 | 2 | 31 | 9 | 582 |
-| last720d | 2024-11-12 | 47 | 629 | 2 | 66 | 10 | 3177 |
+| 30d | 2026-10-04 | 2 | 2 | 1 | 11 | 3 | 4 |
+| last60d | 2026-09-04 | 6 | 6 | 1 | 17 | 3 | 42 |
+| 90d | 2026-08-05 | 8 | 10 | 1 | 18 | 3 | 68 |
+| last180d | 2026-05-07 | 16 | 47 | 2 | 23 | 6 | 315 |
+| 360d | 2025-11-08 | 26 | 92 | 2 | 31 | 9 | 582 |
+| last720d | 2024-11-13 | 47 | 627 | 2 | 66 | 10 | 3170 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cloudflare-go lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:13:20Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:58:36Z._
