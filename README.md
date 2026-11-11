@@ -26,7 +26,7 @@ Total: **831,500** lines of code across **2400** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6 / 10**
+Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,113 · **Forks**: 778 · **Open issues**: 422 · **Contributors**: 85
+- **Stars**: 2,114 · **Forks**: 778 · **Open issues**: 422 · **Contributors**: 85
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 4 | 3 | 1 | 11 | 2 | 15 |
-| last60d | 2026-09-11 | 7 | 8 | 1 | 17 | 3 | 53 |
-| 90d | 2026-08-12 | 10 | 12 | 1 | 18 | 3 | 83 |
-| last180d | 2026-05-14 | 17 | 49 | 2 | 23 | 6 | 280 |
-| 360d | 2025-11-15 | 28 | 94 | 2 | 31 | 9 | 594 |
-| last720d | 2024-11-20 | 49 | 577 | 2 | 65 | 10 | 3149 |
+| 30d | 2026-10-12 | 4 | 3 | 1 | 11 | 2 | 15 |
+| last60d | 2026-09-12 | 7 | 8 | 1 | 17 | 3 | 53 |
+| 90d | 2026-08-13 | 10 | 12 | 1 | 18 | 3 | 83 |
+| last180d | 2026-05-15 | 17 | 46 | 2 | 22 | 6 | 280 |
+| 360d | 2025-11-16 | 28 | 94 | 2 | 31 | 9 | 594 |
+| last720d | 2024-11-21 | 48 | 567 | 2 | 65 | 10 | 3125 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cloudflare-go lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:27:55Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:20:44Z._
