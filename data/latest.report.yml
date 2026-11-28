@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.15.0"
   latestRelease: "v7.15.0"
   latestPrerelease: "v2.0.0-beta.17"
-  collectedAt: 2026-11-27T08:52:24Z
+  collectedAt: 2026-11-28T07:50:41Z
 timeline:
   created: 2015-12-03
   lastCommit: 2026-11-10
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 2126
   watcher: 49
-  fork: 780
+  fork: 779
   release: 222
   contributor: 86
   pullRequest: 3950
@@ -29,7 +29,7 @@ language:
 totalBytes: 55022133
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 2
     mergedPR: 2
     openPR: 3
@@ -37,7 +37,7 @@ recent:
     openIssue: 2
     commit: 5
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 5
     mergedPR: 5
     openPR: 4
@@ -45,7 +45,7 @@ recent:
     openIssue: 5
     commit: 36
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 9
     mergedPR: 11
     openPR: 4
@@ -53,7 +53,7 @@ recent:
     openIssue: 5
     commit: 59
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 14
     mergedPR: 26
     openPR: 5
@@ -61,7 +61,7 @@ recent:
     openIssue: 6
     commit: 264
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 27
     mergedPR: 92
     openPR: 5
@@ -69,13 +69,13 @@ recent:
     openIssue: 10
     commit: 593
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 47
     mergedPR: 524
     openPR: 5
     closedIssue: 62
     openIssue: 12
-    commit: 3071
+    commit: 3070
 total:
   release: 222
   mergedPR: 3699
@@ -85,7 +85,7 @@ total:
   commit: 6092
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/cloudflare-go
-collectedAt: 2026-11-27T08:52:47Z
+collectedAt: 2026-11-28T07:51:02Z
 loc:
   Go:
     code: 830305
